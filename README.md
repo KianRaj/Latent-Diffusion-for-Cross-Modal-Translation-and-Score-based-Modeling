@@ -70,17 +70,3 @@ This repository explores two state-of-the-art paradigms in generative modeling: 
 **Aman Kumar** M.Tech CSE, IIIT Delhi | Postgraduate Researcher, MIDAS Lab  
 [aman24012@iiitd.ac.in](mailto:aman24012@iiitd.ac.in)
 EOF
-
----
-
-## 📊 Evaluation Summary
-
-| Experiment | Metric | Value |
-| :--- | :--- | :--- |
-| **Diffusion (RGB-IR)** | PSNR | 11.54 dB |
-| **Diffusion (RGB-IR)** | SSIM | 0.080 |
-| **Score-based (MNIST)**| FID | 139.9 |
-| **Score-based (MNIST)**| IS | 1.99 |
-
----
-
